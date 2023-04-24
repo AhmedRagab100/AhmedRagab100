@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedragab100&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedragab100" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedragab100" alt="ahmedragab100" /></a> </p>
+
 - 🔭 I’m currently working on [Tourath Mobile app](https://github.com/Abdalla5355/Tourath-Mobile-App)
 
 - 🌱 I’m currently learning **Flutter and clean Architecture**
@@ -12,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/http://www.linkedin.com/in/ahmed-ragab-b7084b233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/ahmed-ragab-b7084b233" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ahmedragab500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmedragab500" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedragab100&show_icons=true&locale=en" alt="ahmedragab100" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedragab100&" alt="ahmedragab100" /></p>
+
