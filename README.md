@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedragab100&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedragab100" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedragab100" alt="ahmedragab100" /></a> </p>
-
 - 🔭 I’m currently working on [Tourath Mobile app](https://github.com/Abdalla5355/Tourath-Mobile-App)
 
 - 🌱 I’m currently learning **Flutter and clean Architecture**
@@ -25,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedragab100&show_icons=true&locale=en" alt="ahmedragab100" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedragab100&" alt="ahmedragab100" /></p>
-
