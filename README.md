@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ragab</h1>
-<h3 align="center">Senior Student in faculty of computer science of Cairo university</h3>
+<h3 align="center">Fresh graduate from faculty of computer science of Cairo university</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedragab100&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedragab100" /> </p>
 
